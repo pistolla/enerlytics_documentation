@@ -1,10 +1,18 @@
 # Enerlytics Mobile User Manual
 
-Enerlytics Mobile application is a convenient Android utility app designed to help users monitor and pay water, electricity and gas bills. The users must be connected to Enerlytics network and using Enerlytics Meter. 
+Enerlytics Mobile application is a convenient Android eWallet and utility meters monitoring app. It is designed to help users monitor and pay water, electricity and gas bills. The users must be connected to Enerlytics network and using Enerlytics Meter. 
 
-1. # 	Introduction
+# 	Introduction
 
-*It is difficult to provide a users’ guide template that fits all situations since applications vary so much in what they allow users to do.  This template is put forth for the project manager or other writer to use in tailoring to the specific characteristics of the software and the project.* 
+*The requirement was to develop a cross-platform app that can be deployed on the major smart phone operating systems i.e Android, IOS and Windows. The app was also required to adapt to different form factors including tablet and phone size. In this perspective it should be responsive when users switch between landscape and portrait display mode. The app ux was required to be friendly and intuitive by using modern frameworks and design patterns. In this documentation we will show the final conceived product and the full functionalities* 
+
+
+
+![](./images/design/HTC Nexus 9 Presentation (1).png)
+
+![](./images/design/Screenshot from 2022-12-02 16-48-11.png)
+
+
 
 1. 1. ## 			Purpose
 
@@ -12,7 +20,15 @@ Enerlytics Mobile application is a convenient Android utility app designed to he
 
 1. 1. ## 		Overview  	
 
+![](./images/design/Screenshot from 2022-12-02 15-59-19.png)
+
 *Explain in general terms the system and the purpose for which it is intended.  The description may include some of the following elements:* 
+
+![](./images/design/Screenshot from 2022-12-02 17-10-58.png)
+
+
+
+
 
 - *List and describe the major functions performed by the system*
 - *Describe the architecture of the system in non-technical terms, (e.g., client/server, Web-based, etc.)*
