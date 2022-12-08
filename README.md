@@ -2,11 +2,11 @@
 
 Enerlytics Mobile application is a convenient Android eWallet and utility meters monitoring app. It is designed to help users monitor and pay water, electricity and gas bills. The users must be connected to Enerlytics network and using Enerlytics Meter. 
 
-# 	Introduction
+# 	System Design
 
-*The requirement was to develop a cross-platform app that can be deployed on the major smart phone operating systems i.e Android, IOS and Windows. The app was also required to adapt to different form factors including tablet and phone size. In this perspective it should be responsive when users switch between landscape and portrait display mode. The app ux was required to be friendly and intuitive by using modern frameworks and design patterns. In this documentation we will show the final conceived product and the full functionalities* 
+*The requirement was to develop a cross-platform app that can be deployed on the major smart phone operating systems i.e Android, IOS and Windows. The app was also required to adapt to different form factors including tablet and phone size. In this perspective it should be responsive when users switch between landscape and portrait display mode. The app ux was required to be friendly and intuitive by using modern frameworks and design patterns. In this documentation we will show the final conceived product and its full functionalities* 
 
-
+#### Non-functional Requirements
 
 ![](./images/design/HTC Nexus 9 Presentation (1).png)
 
@@ -14,11 +14,11 @@ Enerlytics Mobile application is a convenient Android eWallet and utility meters
 
 
 
-1. 1. ## 			Purpose
+## 			Functional Requirements
 
 *Describe the purpose of the guide, which is typically to familiarize users with the important features and navigational elements of the tool.*
 
-1. 1. ## 		Overview  	
+## 		Overview  	
 
 ![](./images/design/Screenshot from 2022-12-02 15-59-19.png)
 
