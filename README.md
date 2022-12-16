@@ -34,10 +34,17 @@ The latest released version ensures quality by guaranteeing performance, scalabi
 
 
 
-1. [On-boarding new Users](https://github.com/pistolla/enerlytics_documentation/onboarding.md)
+1. [On-boarding new Users](onboarding.md)
 
-2. [Register new Users](https://github.com/pistolla/enerlytics_documentation/register.md)
-3. Login 
+2. [Register new Users](register.md)
+3. [Login user](login.md)
+4. [Dashboard](dashboard.md)
+5. [E-wallet](ewallet.md)
+6. [Meter Management](meters_management.md)
+7. [Meter Report](meter_report.md)
+8. [System Design](system_design.md)
+9. [Publishing to Playstore and Installation](installation.md)
+10. [Maintenance and Updates](maintenace_updates.md)
 
 
 
