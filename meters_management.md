@@ -78,6 +78,3 @@ The user can track transactions even those made before the meter was registered.
 | :----------------------------------------------------------: |
 
 
-
-## Show Reports
-

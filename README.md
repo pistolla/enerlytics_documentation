@@ -6,7 +6,7 @@ Enerlytics Mobile application is a convenient Android eWallet and utility meters
 
 *The requirement was to develop a cross-platform app that can be deployed on the major smart phone operating systems i.e Android, IOS and Windows. The app was also required to adapt to different form factors including tablet and phone size. In this perspective it should be responsive when users switch between landscape and portrait display mode. The mobile app is centered on user experience and was required to be friendly and intuitive by using modern frameworks and design patterns. In this documentation we will show the final conceived product and its full functionalities* 
 
-#### Non-functional Requirements
+#### Desirable key features
 
 1. ##### Responsive and Adaptive to different Form-Factors
 
@@ -16,7 +16,7 @@ Enerlytics Mobile application is a convenient Android eWallet and utility meters
 
 ![](images/design/Screenshot from 2022-12-02 16-48-11.png)
 
-
+The latest released version ensures quality by guaranteeing performance, scalability, security, maintainability, and reliability. 
 
 ## 			Functional Requirements
 
@@ -37,6 +37,7 @@ Enerlytics Mobile application is a convenient Android eWallet and utility meters
 1. [On-boarding new Users](https://github.com/pistolla/enerlytics_documentation/onboarding.md)
 
 2. [Register new Users](https://github.com/pistolla/enerlytics_documentation/register.md)
+3. Login 
 
 
 

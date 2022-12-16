@@ -66,3 +66,5 @@ This security features in this wallet includes
    
 
 ### Recharging e Wallet process 
+
+Currently the process is not fully implemented

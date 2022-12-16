@@ -1,1 +1,4 @@
-# User Authentication and session management
+# Technical documentation for Developers
+
+
+
