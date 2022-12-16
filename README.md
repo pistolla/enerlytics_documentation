@@ -47,22 +47,6 @@ Enerlytics Mobile application is a convenient Android eWallet and utility meters
 3. "Mobile E-Wallet for Utility Bill Payment: A Survey" by K. S. Lee and H. J. Kim: This survey paper examines the use of mobile e-wallets for utility bill payment, including the features and functionality of such applications for paying electricity, water, and gas bills.
 4. "E-Wallet Mobile Application for Utility Bill Payment: A Case Study" by J. H. Lee and J. H. Park: This case study discusses the implementation and use of an e-wallet mobile application for utility bill payment, including the experience of a specific user in paying their electricity, water, and gas bills using the application.
 
-1. 1. 1. ### 			Information
-
-*Provide a list of the points of organizational contact (POCs) that may be needed by the document user for informational and troubleshooting purposes.  Include type of contact, contact name, department, telephone number, and e-mail address (if applicable).  Points of contact may include, but are not limited to: help desk POC, development/maintenance POC, and operations POC.*
-
-1. 1. 1. ### 			Coordination
-
-*Provide a list of organizations that require coordination between the project and its specific support function (e.g., installation coordination, security, etc.).  Include a schedule for coordination activities.*
-
-1. 1. 1. ### 			Help Desk
-
-*Provide help desk information including responsible personnel phone numbers for emergency assistance.*
-
-1. 1. ## 			Organization of the Manual
-
-*Provide a list of the major sections of the User’s Manual (1.0, 2.0, 3.0, etc.) and a brief description of what is contained in each section.*
-
-1. 1. ## 		Acronyms and Abbreviations
+## 		Acronyms and Abbreviations
 
 *Provide a list of the acronyms and abbreviations used in this document and the meaning of each.*
