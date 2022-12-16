@@ -16,3 +16,7 @@ This Each menu has a Icon and label to show the screen to open. The right floati
 Top header component is common in many apps and hence most likely the user will feel familiar with our layout. The left side of the header has drop down menu and in case the user device is wide most of the menu items will 
 appear as icon placed in line. If the screen is smaller the menu item will be shown as a drop down. Each header has a title to show the name of the current open screen. On the right side of the top header, we place a button 
 which perform different action for each screen. The function will be described in following sections.
+
+| <img src="./images/ewallet/Screenshot_1669787538.png" style="zoom:67%;" /> |
+| ------------------------------------------------------------ |
+

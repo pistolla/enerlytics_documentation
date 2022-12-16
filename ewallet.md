@@ -7,11 +7,11 @@ It allows securely stores payment information including the transaction can only
 
 This security features in this wallet includes 
 
-1. two factor authentication for new MPESA phone number, 
-2. biometric payment,
-3. confirmation of transaction codes, 
-4. only logged users can view or print the transactions and 
-5. uses secure MPESA STK Push channel to recharge wallet.
+1. Two factor authentication for new MPESA phone number, 
+2. Biometric authentication,
+3. Confirmation of transaction codes, 
+4. Only logged users can view or print the transactions and 
+5. Uses secure MPESA STK Push channel to recharge wallet.
 
 ### Benefits of using e wallet
 
@@ -23,11 +23,46 @@ This security features in this wallet includes
 
 #### Features of Wallet
 
-1. Total balance
+1. Total balance - 
+
+   |      | <img src="./images/ewallet/Screenshot_1669863464.png" style="zoom:25%;" /> |
+   | ---- | -----------------------------------------------------------: |
+
+   
+
 2. Transaction Reports
+
+   | <img src="./images/ewallet/Screenshot_1669863471.png" style="zoom:25%;" /> |      |
+   | ------------------------------------------------------------ | ---- |
+
+   
+
 3. Action button to recharge
+
+   |      | <img src="./images/ewallet/Screenshot_1669863517.png" style="zoom:25%;" /> |
+   | ---- | -----------------------------------------------------------: |
+
+   
+
 4. Menu item button to filter transactions
+
+   | <img src="./images/ewallet/Screenshot_1669863503.png" style="zoom:25%;" /> |      |
+   | ------------------------------------------------------------ | ---- |
+
+   
+
 5. Print Button to export transactions
+
+   |      | <img src="./images/ewallet/Screenshot_1669863524.png" style="zoom:25%;" /> |
+   | ---- | -----------------------------------------------------------: |
+
+   
+
 6. List of transactions
+
+   | <img src="./images/ewallet/Screenshot_1669863512.png" style="zoom:25%;" /> |      |
+   | ------------------------------------------------------------ | ---- |
+
+   
 
 ### Recharging e Wallet process 
