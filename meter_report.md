@@ -49,9 +49,9 @@ The chart typically consists of a series of bars, with each bar representing the
 
 The barchart may also include markers or indicators to show certain events or conditions that may have affected the usage. For example, a limit marker may indicate the maximum amount of usage allowed under a certain plan or rate, while a leakage marker may indicate a problem with a plumbing or gas line that is causing an abnormal amount of usage.
 
-In addition to these markers, the utility bill meter barchart may also include other information such as the cost of the usage, the gas water and electricity. This information can help consumers understand their energy usage and identify opportunities to reduce their energy costs by making changes to their consumption habits or finding more cost-effective rate plans.
+In addition to these markers, the utility bill meter bar chart may also include other information such as the cost of the usage, the gas water and electricity. This information can help consumers understand their energy usage and identify opportunities to reduce their energy costs by making changes to their consumption habits or finding more cost-effective rate plans.
 
-I the current version there's no way to collect leakage information and any calculation is done with assumption leakages are zero.
+In the current version there's no way to collect leakage information and thus calculation is done with assumption leakages are zero.
 
 | <img src="images/report/Screenshot_1669788362.png" style="zoom:50%;" /> |
 | ------------------------------------------------------------ |

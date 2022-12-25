@@ -11,6 +11,6 @@ Eneryltics mobile app settings interface allows you to customize various aspects
 7. App permissions: Users may be able to view and manage the permissions that the app has been granted, such as access to the device's camera or location data.
 8. Uninstall/delete: Users may be able to uninstall or delete the app from their device through the settings interface.
 
-| ![]() |
-| ----- |
+| <img src="images/settings/Screenshot_1669863673.png" style="zoom:50%;" /> | <img src="images/settings/Screenshot_1669863679.png" style="zoom:50%;" /> | <img src="images/settings/Screenshot_1669863699.png" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 

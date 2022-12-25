@@ -72,3 +72,6 @@ To update source code using system design diagrams, a mobile developer should fo
 
 ![](images/design/Screenshot from 2022-12-16 19-14-35.png)
 
+
+
+![](images/design/1_MqYPYKdNBiID0mZ-zyE-mA.webp)

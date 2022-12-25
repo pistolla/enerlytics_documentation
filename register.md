@@ -5,8 +5,8 @@
 The process of converting anonymous user who have just installed our enerlytics app happens on this screen. It is crucial 
 for the app functionality otherwise anonymous can not operate the app without registering and creating a profile. The process only requires minimal data to get started. 
 
-| <img src="./images/profile/Screenshot_1669863373.png" style="zoom:25%;" /> |      |
-| ------------------------------------------------------------ | ---- |
+| <img src="./images/profile/Screenshot_1669863373.png" style="zoom:25%;" /> |
+| ------------------------------------------------------------ |
 
 User provides their full names; first and last name, email address, mobile phone number,
 and a unique password. All these data is required to be able to submit registration form. In case any is omitted an error and
