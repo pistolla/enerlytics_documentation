@@ -42,9 +42,11 @@ The latest released version ensures quality by guaranteeing performance, scalabi
 5. [E-wallet](ewallet.md)
 6. [Meter Management](meters_management.md)
 7. [Meter Report](meter_report.md)
-8. [System Design](system_design.md)
-9. [Publishing to Playstore and Installation](installation.md)
-10. [Maintenance and Updates](maintenace_updates.md)
+8. [Profile and Settings](profile_settings.md)
+9. [Help and Support](help_support.md)
+10. [System Design](system_design.md)
+11. [Publishing to Playstore and Installation](installation.md)
+12. [Maintenance and Updates](maintenace_updates.md)
 
 
 
@@ -58,3 +60,8 @@ The latest released version ensures quality by guaranteeing performance, scalabi
 ## 		Acronyms and Abbreviations
 
 *Provide a list of the acronyms and abbreviations used in this document and the meaning of each.*
+
+App - Mobile Application
+
+APK - Android Package
+
