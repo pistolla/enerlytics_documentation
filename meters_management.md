@@ -20,8 +20,8 @@ User can also view on the reports for the meters added.
 
 This screen enable user to register their utility meter using Meter Number and the last MPESA transaction code. This setup assumes the user has been issued with our meters and its active and working. The Meter Number is unique for each Meter. 
 
-| <img src="/media/DATA/HOME/docs/enerlytics/images/meters/Screenshot_1669863549.png" style="zoom:25%;" /> |      |
-| ------------------------------------------------------------ | ---- |
+| <img src="images/meters/Screenshot_1669863549.png" style="zoom:25%;" /> |
+| :----------------------------------------------------------: |
 
 Tap on the button at the top header the one on left side. This action open a form with two input fields to fill in. 
 
@@ -31,8 +31,8 @@ Tap on the `Register` button and a request will be sent to Enerlytics servers to
 
 In case any of the input information is invalid user will receive a response error message indicating why the registration failed. You can rectify any error and in case the error persist you can contact us for further assistance.
 
-| <img src="/media/DATA/HOME/docs/enerlytics/images/meters/Screenshot_1669863585.png" style="zoom:25%;" /> |      |
-| ------------------------------------------------------------ | ---- |
+| <img src="images/meters/Screenshot_1669863585.png" style="zoom:25%;" /> |
+| :----------------------------------------------------------: |
 
 Registered meters are not shared with other users. You can monitor the meter on many devices you have logged in with your account credentials.
 
@@ -42,7 +42,7 @@ Registered meters are not shared with other users. You can monitor the meter on 
 
 The App automatically fetches the meters owned by the logged in users. When user registers  a new Meter the new meter and its transaction history are loaded from server and displayed on the list of meters. In case the user wish to manually refresh the meters, you can tap on the refresh icon button on the right side of the header. This can be effective is users switches the Internet connection or if they notice the data is stale. User can also refresh or fetch more data transactions history of a meter by expanding the specific meter widget then scroll through the listed transaction. To fetch more tap on more link and the data more will be fetched. 
 
-| <img src="/media/DATA/HOME/docs/enerlytics/images/meters/Screenshot_1669863533.png" style="zoom:25%;" /> | <img src="/media/DATA/HOME/docs/enerlytics/images/meters/Screenshot_1669863541.png" style="zoom:25%;" /> |
+| <img src="images/meters/Screenshot_1669863533.png" style="zoom:25%;" /> | <img src="images/meters/Screenshot_1669863541.png" style="zoom:25%;" /> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 
@@ -51,7 +51,7 @@ The App automatically fetches the meters owned by the logged in users. When user
 
 The vital reading to monitor include:- Current Meter reading, Previous Meter reading and average meter usage. 
 
-| <img src="/media/DATA/HOME/docs/enerlytics/images/meters/Screenshot_1669788339.png" style="zoom:50%;" /> |
+| <img src="images/meters/Screenshot_1669788339.png" style="zoom:50%;" /> |
 | :----------------------------------------------------------: |
 
 
@@ -74,7 +74,6 @@ This is the estimated household consumption per day. The  average meter reading 
 
 The user can track transactions even those made before the meter was registered. It allows filtering these transaction by date range, days of the week, weeks of a month, or each month in an year. This is effective to check overall usage and monitor previous readings. To filter just select the drop down menu below the top header on the left side. Pick any filtering option and data will be refreshed automatically. You can also select specific dates to fetch by using date picker at the top header, right side.
 
-| <img src="/media/DATA/HOME/docs/enerlytics/images/meters/Screenshot_1669788277.png" style="zoom:50%;" /> |
+| <img src="images/meters/Screenshot_1669788277.png" style="zoom:50%;" /> |
 | :----------------------------------------------------------: |
-
 

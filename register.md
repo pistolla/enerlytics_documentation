@@ -21,8 +21,8 @@ on the registration submit button. This start a background process which validat
 for this process.  A pop up progress bar is shown to indicate the connection and the message returned from the server. If the registration is successful user can proceed 
 to the Phone/Email authentication page. Check the possible error messages in case the registration fails and how to fix them.
 
-| ![]() |      |
-| ----- | ---- |
+| <img src="images/profile/Screenshot_2022-12-26-10-20-34-813.jpg" style="zoom:50%;" /> | <img src="images/profile/Screenshot_2022-12-26-10-20-42-696.jpg" style="zoom:50%;" /> | <img src="images/profile/Screenshot_2022-12-26-10-20-56-675.jpg" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
 
@@ -35,5 +35,5 @@ In case user entered wrong data in either email or phone, a profile update is
 show below the resend code link. Check the system design to learn more about the code authentication process. This process also requires an Internet connection.
 Check the possible error messages in case the authentication fails and how to fix them. When the code is successfully authenticated, user can proceed to login
 
-| ![]() |      |
-| ----- | ---- |
+| <img src="images/profile/Screenshot_2022-12-26-10-21-51-622.jpg" style="zoom:50%;" /> | <img src="images/profile/Screenshot_2022-12-26-10-19-04-745.jpg" style="zoom:50%;" /> | <img src="images/profile/Screenshot_2022-12-26-10-22-01-060.jpg" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |

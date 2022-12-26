@@ -25,43 +25,43 @@ This security features in this wallet includes
 
 1. Total balance - 
 
-   |      | <img src="./images/ewallet/Screenshot_1669863464.png" style="zoom:25%;" /> |
-   | ---- | -----------------------------------------------------------: |
+   | <img src="images/ewallet/Screenshot_1669863464.png" style="zoom:25%;" /> |
+   | :----------------------------------------------------------: |
 
    
 
 2. Transaction Reports
 
-   | <img src="./images/ewallet/Screenshot_1669863471.png" style="zoom:25%;" /> |      |
-   | ------------------------------------------------------------ | ---- |
+   | <img src="images/ewallet/Screenshot_1669863471.png" style="zoom:25%;" /> |
+   | :----------------------------------------------------------: |
 
    
 
 3. Action button to recharge
 
-   |      | <img src="./images/ewallet/Screenshot_1669863517.png" style="zoom:25%;" /> |
-   | ---- | -----------------------------------------------------------: |
+   | <img src="images/ewallet/Screenshot_1669863517.png" style="zoom:25%;" /> |
+   | :----------------------------------------------------------: |
 
    
 
 4. Menu item button to filter transactions
 
-   | <img src="./images/ewallet/Screenshot_1669863503.png" style="zoom:25%;" /> |      |
-   | ------------------------------------------------------------ | ---- |
+   | <img src="images/ewallet/Screenshot_1669863503.png" style="zoom:25%;" /> |
+   | :----------------------------------------------------------: |
 
    
 
 5. Print Button to export transactions
 
-   |      | <img src="./images/ewallet/Screenshot_1669863524.png" style="zoom:25%;" /> |
-   | ---- | -----------------------------------------------------------: |
+   | <img src="images/ewallet/Screenshot_1669863524.png" style="zoom:25%;" /> |
+   | :----------------------------------------------------------: |
 
    
 
 6. List of transactions
 
-   | <img src="./images/ewallet/Screenshot_1669863512.png" style="zoom:25%;" /> |      |
-   | ------------------------------------------------------------ | ---- |
+   | <img src="images/ewallet/Screenshot_1669863512.png" style="zoom:25%;" /> |
+   | :----------------------------------------------------------: |
 
    
 
